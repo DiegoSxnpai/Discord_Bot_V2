@@ -8,3 +8,5 @@ pip install discord.py
 pip install PyQt5
 
 pip install colorama
+
+from PyQt5.QtGui import QFontDatabase
